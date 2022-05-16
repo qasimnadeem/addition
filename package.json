@@ -1,0 +1,19 @@
+{
+  "name": "addition",
+  "version": "1.0.0",
+  "description": "add two numbers",
+  "main": "addition.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "@qasimnadeem"
+  },
+  "keywords": [
+    "add",
+    "addition"
+  ],
+  "author": "ict",
+  "license": "ISC"
+}
